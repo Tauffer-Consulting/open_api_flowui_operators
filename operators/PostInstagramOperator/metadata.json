@@ -1,0 +1,17 @@
+{
+    "name": "PostInstagramOperator",
+    "dependency": {
+        "requirements_file": "requirements_0.txt"
+    },
+    "tags": [
+        "Example"
+    ],
+    "style": {
+        "node_label": "Post on Instagram",
+        "node_type": "sink",
+        "node_style": {
+            "backgroundColor": "#b3cde8"
+        },
+        "icon_class_name": "fas fa-database"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "open_api_flowui_operators_image_0": {
+        "dependency": {
+            "docker_image": null,
+            "dockerfile": null,
+            "requirements_file": "requirements_0.txt"
+        },
+        "operators": [
+            "DownloadPicsumImageOperator",
+            "GetColormindPaletteOperator",
+            "PostInstagramOperator"
+        ],
+        "secrets": [],
+        "source_image": "taufferconsulting/open_api_flowui_operators_image_0:0.0.1"
+    }
+}
