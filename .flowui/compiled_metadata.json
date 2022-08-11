@@ -21,6 +21,7 @@
                 "cursor": "pointer"
             }
         },
+        "description": "Download Image from Picsum (https://picsum.photos/)",
         "input_schema": {
             "title": "InputModel",
             "description": "Download Image from Picsum (https://picsum.photos/)",
@@ -95,6 +96,7 @@
                 "cursor": "pointer"
             }
         },
+        "description": "Get color palette from image, using Colormind (http://colormind.io)",
         "input_schema": {
             "title": "InputModel",
             "description": "Get color palette from image, using Colormind (http://colormind.io)",
@@ -189,6 +191,7 @@
                 "cursor": "pointer"
             }
         },
+        "description": "Post image on Instagram",
         "input_schema": {
             "title": "InputModel",
             "description": "Post image on Instagram",
