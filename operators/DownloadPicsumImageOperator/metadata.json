@@ -1,5 +1,6 @@
 {
     "name": "DownloadPicsumImageOperator",
+    "description": "Download Image from Picsum (https://picsum.photos/)",
     "dependency": {
         "requirements_file": "requirements_0.txt"
     },

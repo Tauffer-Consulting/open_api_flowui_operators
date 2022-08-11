@@ -1,5 +1,6 @@
 {
     "name": "GetColormindPaletteOperator",
+    "description": "Get color palette from image, using Colormind (http://colormind.io)",
     "dependency": {
         "requirements_file": "requirements_0.txt"
     },
